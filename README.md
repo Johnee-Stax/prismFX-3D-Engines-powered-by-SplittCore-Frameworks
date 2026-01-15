@@ -115,10 +115,10 @@ I'm positioning PrismFX as **"the only engine that lets you render, edit and pub
 | **Perpetual** | Enterprise (one-time) | $90,000 | Lifetime access to current version, optional maintenance |
 
 ### Revenue Projections - My conservative 3-year forecast:
-- **Year 3 ARR**: ~$12.3M
-- **Enterprise**: 50 contracts × $25,000 = $1.25M
-- **Pro Studios**: 400 contracts × $4,799 = $1.92M  
-- **Indie**: 5,000 users × $199 = $1.0M
+- **Year 3 ARR**: ~ $37.7 million
+- **Enterprise**: 500 contracts × $25,000 = $12.5M
+- **Pro Studios**: 1800 contracts × $4,799 = $8.7M  
+- **Indie**: $30,000 users × $199 = $6M
 - **Cloud Rendering**: 70k GPU-hrs × $0.12 = $8.4M
 
 ## 🗺️ Development Roadmap ### 36-Month Strategic Plan
